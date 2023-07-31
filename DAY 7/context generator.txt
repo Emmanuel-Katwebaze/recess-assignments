@@ -1,0 +1,4 @@
+Assignment A7:
+1a) Show a context manager for file handling that automatically opens and closes a file.
+b) Shows a context manager for managing a database connection.
+c) Show a multithreading and multiprocessing  that allows us to run the function for different amounts of time.
